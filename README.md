@@ -1,1 +1,4 @@
-#LLD Design Patterns
+# LLD Design Patterns
+
+## Creation Patterns
+### Factory Method
