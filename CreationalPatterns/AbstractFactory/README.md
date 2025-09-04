@@ -26,7 +26,7 @@ Examples:
 4. Implement concrete factories for a family and implement the abstract factory interface.
 
 # Benefits and Pitfalls
-Similar to factory method pattern.
+- Similar to factory method pattern.
 
 # Relation with Other Patterns
 - It is an extension of Factory method as many designs start with it and evolve towards this pattern.
