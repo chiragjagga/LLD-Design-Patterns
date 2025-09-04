@@ -17,7 +17,7 @@
 - Optional director class can be used to define the order of the steps or reuse complex object creation logic.
 
 # Applicability
-- When there a huge number of parameters in the constructor.
+- When there are a huge number of parameters in the constructor.
 - To avoid telescopic constructors i.e multiple different constructors with different kind of parameters.
 - When we need different types of variants of the same product with modifications.
 
