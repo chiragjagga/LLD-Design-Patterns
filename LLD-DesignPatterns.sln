@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "CreationalPatterns\Factory Method\C#\FactoryMethod\FactoryMethod.csproj", "{84CBF645-229D-48F9-8F02-D817F827514E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "CreationalPatterns\AbstractFactory\C#\AbstractFactory\AbstractFactory.csproj", "{207294B5-E400-4746-89C1-C66CD6C48A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +29,25 @@ Global
 		{84CBF645-229D-48F9-8F02-D817F827514E}.Release|x64.Build.0 = Release|Any CPU
 		{84CBF645-229D-48F9-8F02-D817F827514E}.Release|x86.ActiveCfg = Release|Any CPU
 		{84CBF645-229D-48F9-8F02-D817F827514E}.Release|x86.Build.0 = Release|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Debug|x64.Build.0 = Debug|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Debug|x86.Build.0 = Debug|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Release|x64.ActiveCfg = Release|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Release|x64.Build.0 = Release|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Release|x86.ActiveCfg = Release|Any CPU
+		{207294B5-E400-4746-89C1-C66CD6C48A1D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{120D5405-F7FF-4374-9816-2A552ADE20D1} = {FB3B0A2D-FAA1-7B64-44ED-839676C58401}
+		{33D5A43D-108E-38A3-5787-5E7E16EE026A} = {120D5405-F7FF-4374-9816-2A552ADE20D1}
+		{207294B5-E400-4746-89C1-C66CD6C48A1D} = {33D5A43D-108E-38A3-5787-5E7E16EE026A}
 	EndGlobalSection
 EndGlobal
