@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Creation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "CreationalPatterns\Builder\C#\Builder\Builder.csproj", "{FA1B58DE-9197-4835-8A16-8FD119EF598F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "CreationalPatterns\Prototype\C#\Prototype\Prototype.csproj", "{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,8 +57,17 @@ Global
 		{FA1B58DE-9197-4835-8A16-8FD119EF598F}.Release|x64.Build.0 = Release|Any CPU
 		{FA1B58DE-9197-4835-8A16-8FD119EF598F}.Release|x86.ActiveCfg = Release|Any CPU
 		{FA1B58DE-9197-4835-8A16-8FD119EF598F}.Release|x86.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Debug|x64.Build.0 = Debug|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Debug|x86.Build.0 = Debug|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Release|x64.ActiveCfg = Release|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Release|x64.Build.0 = Release|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Release|x86.ActiveCfg = Release|Any CPU
+		{F82E7E8F-BC4B-4069-B8F3-5C88FB387191}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
