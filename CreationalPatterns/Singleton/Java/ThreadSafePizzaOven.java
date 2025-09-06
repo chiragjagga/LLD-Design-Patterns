@@ -10,10 +10,10 @@ public class ThreadSafePizzaOven {
     }
 
     public void bake(){
-        System.out.println("Baking in oven");
+        System.out.println("Baking in thread safe oven");
     }
 
     public void preHeat(){
-        System.out.println("Preheating oven");
+        System.out.println("Preheating thread safe oven");
     }
 }
