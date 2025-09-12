@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "CreationalPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Structural-Patterns\Adapter\C#\Adapter\Adapter.csproj", "{6710F9E0-DAB8-4939-A2B1-B704B83AF569}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Structural-Patterns\Bridge\C#\Bridge\Bridge.csproj", "{375508D6-5650-42A2-9706-D2156FC6FB38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,5 +99,17 @@ Global
 		{6710F9E0-DAB8-4939-A2B1-B704B83AF569}.Release|x64.Build.0 = Release|Any CPU
 		{6710F9E0-DAB8-4939-A2B1-B704B83AF569}.Release|x86.ActiveCfg = Release|Any CPU
 		{6710F9E0-DAB8-4939-A2B1-B704B83AF569}.Release|x86.Build.0 = Release|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Debug|x64.Build.0 = Debug|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Debug|x86.Build.0 = Debug|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Release|x64.ActiveCfg = Release|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Release|x64.Build.0 = Release|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Release|x86.ActiveCfg = Release|Any CPU
+		{375508D6-5650-42A2-9706-D2156FC6FB38}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
