@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Structural-Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Structural-Patterns\Decorator\C#\Decorator\Decorator.csproj", "{29EA473D-3740-42B7-8D51-8DA51B4964EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Structural-Patterns\Facade\C#\Facade\Facade.csproj", "{15B23D8B-92F1-4C83-B512-06146B81A197}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,5 +141,17 @@ Global
 		{29EA473D-3740-42B7-8D51-8DA51B4964EC}.Release|x64.Build.0 = Release|Any CPU
 		{29EA473D-3740-42B7-8D51-8DA51B4964EC}.Release|x86.ActiveCfg = Release|Any CPU
 		{29EA473D-3740-42B7-8D51-8DA51B4964EC}.Release|x86.Build.0 = Release|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Debug|x64.Build.0 = Debug|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Debug|x86.Build.0 = Debug|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x64.ActiveCfg = Release|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x64.Build.0 = Release|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x86.ActiveCfg = Release|Any CPU
+		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
