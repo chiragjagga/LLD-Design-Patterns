@@ -1,4 +1,4 @@
-# Flyweight Pattern Design - Maps application objects (Ex - Places in google maps)
+# Flyweight Pattern Design - Maps application objects (Ex - Places in Google Maps)
 ![Flyweight Pattern](Flyweight.png)
 
 # Overview
