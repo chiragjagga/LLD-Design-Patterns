@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Structural-Pat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Structural-Patterns\Facade\C#\Facade\Facade.csproj", "{15B23D8B-92F1-4C83-B512-06146B81A197}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Structural-Patterns\Flyweight\C#\Flyweight\Flyweight.csproj", "{62AF7045-36E6-4D82-ADEF-40336E437E62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,5 +155,17 @@ Global
 		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x64.Build.0 = Release|Any CPU
 		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x86.ActiveCfg = Release|Any CPU
 		{15B23D8B-92F1-4C83-B512-06146B81A197}.Release|x86.Build.0 = Release|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Debug|x64.Build.0 = Debug|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Debug|x86.Build.0 = Debug|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Release|x64.ActiveCfg = Release|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Release|x64.Build.0 = Release|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Release|x86.ActiveCfg = Release|Any CPU
+		{62AF7045-36E6-4D82-ADEF-40336E437E62}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
