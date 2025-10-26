@@ -40,7 +40,7 @@ Pitfalls:
 - Chain Of Responsibility, Command and Mediator address various ways of connecting senders and receivers:
     - CoR passes a request sequentially along a dynamic chain of potential receivers until one of them handles the request.
     - Command establishes unidirectional connection between the sender and receiver.
-    - Mediator eliminates direct communication and forces them to communicate indirectly via the mediator object.s
+    - Mediator eliminates direct communication and forces them to communicate indirectly via the mediator object.
 
 - Facade and Mediator have similar jobs: they try to organize collaboration between lots of tightly coupled classes.
     - Facade defines a simplified interface to a subsystem of objects, which itself is unaware of the facade. Objects within the subsystem can communicate directly.
