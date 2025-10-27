@@ -36,3 +36,4 @@ Pitfalls:
 - Overkill for few states or rarely changing states.
 
 # Relation with Other Patterns
+- Related to strategy but it is not covered yet.
