@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "Behavioural-Patter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Behavioural-Patterns\Strategy\C#\Strategy\Strategy.csproj", "{0DF254F4-95BF-4C97-89B4-DF51A7436EF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "..\..\..\TemplateMethod\C#\TemplateMethod\TemplateMethod.csproj", "{849E608E-FC82-49FA-A330-E8FD461D6219}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,13 +281,20 @@ Global
 		{0DF254F4-95BF-4C97-89B4-DF51A7436EF8}.Release|x64.Build.0 = Release|Any CPU
 		{0DF254F4-95BF-4C97-89B4-DF51A7436EF8}.Release|x86.ActiveCfg = Release|Any CPU
 		{0DF254F4-95BF-4C97-89B4-DF51A7436EF8}.Release|x86.Build.0 = Release|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Debug|x64.Build.0 = Debug|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Debug|x86.Build.0 = Debug|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Release|x64.ActiveCfg = Release|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Release|x64.Build.0 = Release|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Release|x86.ActiveCfg = Release|Any CPU
+		{849E608E-FC82-49FA-A330-E8FD461D6219}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{C134F6B9-A835-FFFE-93B0-14970F3EDBBC} = {38709CA1-C31F-559D-A54F-3E38C9FF3655}
-		{C96649EA-71C7-366C-9F79-3F845C22D6F8} = {C134F6B9-A835-FFFE-93B0-14970F3EDBBC}
-		{0DF254F4-95BF-4C97-89B4-DF51A7436EF8} = {C96649EA-71C7-366C-9F79-3F845C22D6F8}
 	EndGlobalSection
 EndGlobal
