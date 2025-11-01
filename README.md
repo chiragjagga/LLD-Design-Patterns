@@ -1,7 +1,7 @@
 # LLD Design Patterns
 
-Low Level Design Patterns in Java and C#.
-Design with example and notes in individual folders.
+- Low Level Design Patterns in Java and C#.
+- Design with example and notes in individual folders.
 
 ## [Creational Patterns](CreationalPatterns)
  Provide object creation mechanisms that increase flexibility and reuse of existing code.
