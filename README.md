@@ -4,7 +4,7 @@ Low Level Design Patterns in Java and C#.
 Design with example and notes in individual folders.
 
 ## [Creational Patterns](CreationalPatterns)
-Provide object creation mechanisms that increase flexibility and reuse of existing code.
+> Provide object creation mechanisms that increase flexibility and reuse of existing code.
 ### [Factory Method](CreationalPatterns/Factory%20Method)
 Provide an interface for creating objects in a superclass and allow subclasses to alter the types of objects.
 ### [AbstractFactory](CreationalPatterns/AbstractFactory)
